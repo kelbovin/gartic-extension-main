@@ -54,7 +54,7 @@ _Aqui são alguns comentários aleatórios sobre a extensão (ou não) recebidos
 </p>
 </a>
 
-[![Github All Releases](https://img.shields.io/github/downloads/reddap/gartic-extension/total.svg)](https://github.com/kelbovin/gartic-extension-main/releases/download/untagged-81e86954a236b217e22c/extension-for-chrome.rar)
+[![Github All Releases](https://img.shields.io/github/downloads/reddap/gartic-extension/total.svg)](https://github.com/kelbovin/gartic-extension-main/releases/download/20/extension-for-chrome.rar)
 
 -----
 
@@ -62,7 +62,7 @@ _Aqui são alguns comentários aleatórios sobre a extensão (ou não) recebidos
 #### <p align="center"> Version for kids of a extension created for fun. :) </p>
 
 
-**[Download Gatric v1.8.7](https://github.com/kelbovin/gartic-extension-main/releases/download/untagged-81e86954a236b217e22c/extension-for-chrome.rar)**  **_(última versão)_**
+**[Download Gatric v1.8.7](https://github.com/kelbovin/gartic-extension-main/releases/download/20/extension-for-chrome.rar)**  **_(última versão)_**
 <br>
 
 - [Introdução](https://github.com/reddap/gartic-extension#introduction)
