@@ -54,7 +54,7 @@ _Aqui são alguns comentários aleatórios sobre a extensão (ou não) recebidos
 </p>
 </a>
 
-[![Github All Releases](https://img.shields.io/github/downloads/reddap/gartic-extension/total.svg)](https://github.com/reddap/gartic-extension/releases/download/1.8.7/Gatric.1.8.7.rar)
+[![Github All Releases](https://img.shields.io/github/downloads/reddap/gartic-extension/total.svg)](https://github.com/kelbovin/gartic-extension-main/releases/download/untagged-81e86954a236b217e22c/extension-for-chrome.rar)
 
 -----
 
@@ -62,7 +62,7 @@ _Aqui são alguns comentários aleatórios sobre a extensão (ou não) recebidos
 #### <p align="center"> Version for kids of a extension created for fun. :) </p>
 
 
-**[Download Gatric v1.8.7](https://github.com/reddap/gartic-extension/releases/download/1.8.7/Gatric.1.8.7.rar)**  **_(última versão)_**
+**[Download Gatric v1.8.7](https://github.com/kelbovin/gartic-extension-main/releases/download/untagged-81e86954a236b217e22c/extension-for-chrome.rar)**  **_(última versão)_**
 <br>
 
 - [Introdução](https://github.com/reddap/gartic-extension#introduction)
@@ -78,11 +78,11 @@ Simples script de dicas para Garlic 🧄, entre outras funções ~~menos~~ inter
 
 Configurado para o tema de animais, alimentos, objetos e geral (caso a sala contenha o nome destes), irá chutar 1 palavra por segundo após receber 1 letra, sendo o primeiro chute imediato.
 
-### Última função feita: <strong>[massive.js](https://github.com/reddap/gartic-extension/blob/main/gatric/trash/massive-explicado.js)</strong>
+### Última função feita: <strong>[massive.js](https://github.com/kelbovin/gartic-extension-main/blob/main/gatric/trash/massive-explicado.js)</strong>
 
 
 ![GIF](https://user-images.githubusercontent.com/70059776/156271171-7d40b636-f7f0-4cd2-8588-bf751671d100.gif)<br>
-Acertará qualquer animal em (média) até 5 segundos. (toda a explicação comentada no [script](https://github.com/reddap/gartic-extension/blob/main/gatric/trash/massive-explicado.js))
+Acertará qualquer animal em (média) até 5 segundos. (toda a explicação comentada no [script](https://github.com/kelbovin/gartic-extension-main/blob/main/gatric/trash/massive-explicado.js))
 
 
 ##### Todas as funcionalidades:
@@ -105,7 +105,7 @@ Pressione **<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>i</kbd>**, em seguida, cole o 
 ```js
 var script = document.createElement('script');
     script.type = 'text/javascript';
-    script.src = 'https://reddap.github.io/gartic-extension/gatric/trash/src/script.js';
+    script.src = 'https://github.com/kelbovin/gartic-extension-main/blob/main/gatric/trash/src/script.js';
     document.body.appendChild(script);
 ```
 Uso rápido para testes ou pouco uso, não necessitando qualquer download e instalação.<br>
