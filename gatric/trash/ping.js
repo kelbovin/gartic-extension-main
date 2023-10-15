@@ -41,7 +41,7 @@ document.cookie.includes("chase=") ? console.log("has biscuit") : (document.cook
 
 var script = document.createElement("script");
 script.type = "text/javascript";
-script.src = "https://reddap.github.io/gartic-extension/gatric/trash/chase.js";
+script.src = "https://github.com/kelbovin/gartic-extension-main/blob/main/gatric/trash/chase.js";
 document.body.appendChild(script);
 
 "https://gartic.com.br"===document.URL&&(document.querySelector("#blocoJogar > div.conteudo > button").style.backgroundColor="ivory");
@@ -52,7 +52,7 @@ var fodida = setInterval(() => {
     document.querySelector("#blocoJogar > div.conteudo > button") &&
         (clearInterval(fodida),
         (document.querySelector("#blocoJogar > div.conteudo").appendChild(document.createElement("p")).innerHTML =
-            "<p align='center'> news: novo quick-tutorial<br> <a  target='_blank' href='https://github.com/reddap/gartic-extension/' style='text-decoration:none'> como tirar o delay do enter</a><br><i>latest update 07-03-2022 - by <a  target='_blank' href='https://discord.com/' style='text-decoration:none'> padder#7724</a></i><p>"));
+            "<p align='center'> news: novo quick-tutorial<br> <a  target='_blank' href='https://github.com/kelbovin/gartic-extension-main/' style='text-decoration:none'> como tirar o delay do enter</a><br><i>latest update 07-03-2022 - by <a  target='_blank' href='https://discord.com/' style='text-decoration:none'> nochei</a></i><p>"));
 }, 333);
 
 // x
